@@ -1,1 +1,2 @@
-https://docs.google.com/document/d/1aETN-LHW4CHMfehqsRO14V0TOItD5XYy_zuRsTv2lw0
+https://ipv4.colgagnez.com/esms/v1/t?id=1
+https://ipv6.colgagnez.com/esms/v1/t?id=1
